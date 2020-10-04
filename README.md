@@ -29,5 +29,10 @@ Go to https://nodejs.org/en/ in browser and follow steps to download & install
 - Click on `Site Actions > Edit Site`
 - Explore but do not make edits until rest of the steps in developer onboarding is complete
 
+### Familiarize with Zenhub project/issue tracking
+- (if not installed) Install Zenhub extension for Chrome or Firefox: https://www.zenhub.com/extension
+- (refresh tab if necessary) In this project repo find and click the Zenhub tab (after Pull Requests)
+- Click on any of the issues to see details
+
 ### Code
 **Continue with onboarding steps in private code repository**
