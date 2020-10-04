@@ -29,11 +29,5 @@ Go to https://nodejs.org/en/ in browser and follow steps to download & install
 - Click on `Site Actions > Edit Site`
 - Explore but do not make edits until rest of the steps in developer onboarding is complete
 
-### Clone code for Seth Education website locally
-- Create base folder for Seth on computer
-- `npx create-corvid-app wix-app https://seth-institute.org` to create project linked with Wix and clone source code: it will ask you to login (use your seth-institute website login account)
-- `cd wix-app`
-- `git init`
-- `git remote add origin git@github.com:seth-institute/wix-app.git` if you have ssh set up with Github (https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/connecting-to-github-with-ssh) or `git remote add origin https://github.com/seth-institute/wix-app.git` otherwise
-- `git fetch`
-- `git reset --hard origin/master`: now you have the latest code from Github repo
+### Code
+**Continue with onboarding steps in private code repository**
